@@ -1,0 +1,7 @@
+venv/
+.venv/
+__pycache__/
+*.tif
+*.parquet
+duckdb_temp/
+.env
